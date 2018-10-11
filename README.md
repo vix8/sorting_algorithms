@@ -1,2 +1,3 @@
 # sorting_algorithms
-Consists all sorting algorithms in c++
+Consists all sorting algorithms in c++.
+Public Repository.
