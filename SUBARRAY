@@ -1,5 +1,5 @@
 //print the maximum sum in subarray
-//vivek singh
+//Ayush Sharma
 #include<iostream>
 using namespace std;
 int main()
@@ -38,7 +38,7 @@ int main()
       }
     }
   }
-  cout<<"maximum sum in subarrays is"<<maxSum<<endl;
+  cout<<"maximum sum in the subarrays is"<<maxSum<<endl;
   for(int k=left;k<=right;k++)
   {
     cout<<arr[k]<<",";
