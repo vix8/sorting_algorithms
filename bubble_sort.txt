@@ -9,10 +9,10 @@ int main()
     cout<<"Enter the size of array: ";
     cin>>n;
     cout<<"Enter the array elements: "; 
-    // i has range from i to size of array -1
+    // no need to tell that
     for(i=0;i<n;++i)
         cin>>a[i];
-    //For Loop after Input.
+    //yeah we know that
     for(i=1;i<n;++i)
     {
         for(j=0;j<(n-i);++j)
